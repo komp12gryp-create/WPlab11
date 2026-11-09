@@ -1,0 +1,43 @@
+body {
+    background-image: url("images/background.jpg");
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+}
+
+h1 {
+    color: darkblue;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+p {
+    text-indent: 30px;
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img {
+    display: block;
+    width: 360px;
+    max-width: 90%;
+    margin: 20px auto;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:active {
+    color: red;
+}
